@@ -1,0 +1,12 @@
+LoginTest|PASSED|140
+CreateTaskTest|PASSED|890
+CommentTest|FAILED|0
+CreateTaskTest|PASSED|920
+ProfileTest|PASSED|310
+PaymentTest|PASSED|abc
+SearchTest|UNKNOWN|250
+RegisterTest|PASSED
+LogoutTest|SKIPPED|0|unexpected
+BrokenTest||150
+LoginTest|PASSED|1400
+BrokenTest|PASSED|150
